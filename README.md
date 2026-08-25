@@ -19,10 +19,10 @@ Me chamo José Rafael Pires, tenho 22 anos e sou natural do Paraná. Atualmente,
 <p align="center">
     <a href="https://www.youtube.com/@zrpires?sub_confirmation=1">
         <img
-            alt="YouTube"
-            title="Inscreva-se no YouTube"
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHCO495czDKhsQR4PfqcCCw?style=for-the-badge&logo=video&logoColor=white&label=YouTube&color=FF0000&labelColor=C70000"
-        />
+        alt="YouTube"
+        title="Inscreva-se no YouTube"
+        src="https://img.shields.io/badge/YOUTUBE-ZRPIRES-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      />
     </a>
     <a href="https://www.twitch.tv/zrpires">
         <img
